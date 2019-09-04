@@ -11,11 +11,11 @@ __Announcements:__ (on Moodle)
 
 __Lecture Notes:__
 
-- [Lecture notes on Data Science](http://bit.ly/2kgOKUl) (a work in progress)
+- [Lecture notes on Data Science](http://bit.ly/ds-lectures) (a work in progress)
 
 __Lecture Slides:__
 
-- [Lecture 1 - 10 Sep 2019]()
+- [Lecture 1 - 10 Sep 2019](http://bit.ly/2kgOKUl)
 
 
 ## Part B: Natural Language Processing
