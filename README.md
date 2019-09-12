@@ -19,8 +19,8 @@ __Lecture Slides:__
 - Lecture 2 - 17 Sep 2019 (taught by an other instructor)
 - Lecture 3 - 24 Sep 2019 (taught by an other instructor)
 - [Lecture 4 - 8 Oct 2019](http://bit.ly/2keBsrc)
-- [Lecture 5 - 15 Oct 2019]()
-- [Lecture 6 - 22 Oct 2019]()
+- [Lecture 5 - 15 Oct 2019](http://bit.ly/2kGI8hW)
+- [Lecture 6 - 22 Oct 2019](http://bit.ly/2lQL5wU)
 
 
 ## Part B: Natural Language Processing
