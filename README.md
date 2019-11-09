@@ -27,6 +27,8 @@ __Lecture Slides:__
 
 __Instructor:__ Ioannis Kourouklides
 
+__Lecture Slides:__
+
 - [Lecture 7 - 29 Oct 2019](http://bit.ly/2MTAMmy)
 - [Lecture 8 - 5 Nov 2019](http://bit.ly/2Ce84Xq)
 - Lecture 9 - 12 Nov 2019 (taught by an other instructor)
