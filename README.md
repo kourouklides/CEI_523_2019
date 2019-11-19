@@ -32,5 +32,5 @@ __Lecture Slides:__
 - [Lecture 7 - 29 Oct 2019](http://bit.ly/2MTAMmy)
 - [Lecture 8 - 5 Nov 2019](http://bit.ly/2Ce84Xq)
 - Lecture 9 - 12 Nov 2019 (taught by an other instructor)
-- Lecture 10 - 19 Nov 2019
-- Lecture 11 - 26 Nov 2019
+- [Lecture 10 - 19 Nov 2019](http://bit.ly/2Xusx3W)
+- Lecture 11 - 26 Nov 2019 (revision)
