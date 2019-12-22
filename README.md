@@ -25,7 +25,7 @@ __Lecture Slides:__
 - [Lecture 6 - 22 Oct 2019](http://bit.ly/2lQL5wU)
 
 
-## Part B: Natural Language Processing
+## Part B: Deep Learning and Natural Language Processing
 
 __Instructor:__ Ioannis Kourouklides
 
